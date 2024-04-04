@@ -19,3 +19,10 @@ Também realizamos análises utilizando o <b>Google Sheets</b>.
   2. Após o passo 1, clique no ícone de upload de arquivo:
       ![img_1.png](imgs/img_1.png)
   3. Após isso, você já consegue rodar o notebook com sucesso.
+
+## Resumo sobre a experiência
+Durante a imersão **Imersão Python: Do Excel à Análise de Dados** oferecida pela **Alura**, tive a oportunidade de aprofundar meus conhecimentos em Python e explorar técnicas de análise de dados. Durante a semana intensiva de aprendizado, fui revisto os conceitos fundamentais de Python, aprendi a manipular dados de forma eficiente com a biblioteca Pandas e a visualizar insights com Matplotlib. Além disso, explorei técnicas de análise de dados exploratória, tanto no **Python** como no **Google Sheets**.
+
+Minha experiência durante a imersão foi extremamente enriquecedora, pois pude aplicar os conceitos aprendidos em projetos práticos. Através de análises de dados reais, desenvolvi habilidades essenciais em Python e análise de dados, e venho estudando cada vez mais para me aperfeiçoar.
+
+Esta imersão não apenas solidificou meu conhecimento em Python, mas também me proporcionou uma compreensão mais profunda do processo de análise de dados e sua aplicação no mundo real. Estou confiante de que os conhecimentos adquiridos durante esta imersão serão inestimáveis para o meu crescimento profissional contínuo.
